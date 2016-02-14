@@ -1,0 +1,7 @@
+***
+
+PARA EJECUTAR LA APLICACIÓN:
+	
+	1.- Primero debes ejecutar la clase IUServidor. Si no haces esto, no podrás abrir clientes, ya que dará el error 'refuse connection'.
+	2.- Luego puedes abrir los clientes deseados (IUCliente)
+	3.- La clase HiloServidor se ejecuta automáticamente por cada socket que le llega al servidor, así que 'ignórala' en la ejecución.
